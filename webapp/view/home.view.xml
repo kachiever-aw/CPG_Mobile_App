@@ -1,0 +1,14 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="cpg_mobiile_app.CPG_Mobile_App.controller.home" displayBlock="true">
+	<Shell id="shell">
+		<App id="app" backgroundColor="black">
+			<pages><Page id="page" title="{i18n>title}" backgroundDesign="Solid">
+					<content>
+					</content>
+				<headerContent>
+				<Image src="https://assets.ey.com/content/dam/ey-sites/ey-com/en_uk/news/2019/12/ey-agilityworks-logo.jpg" width="120px" height="40px" id="image0" backgroundPosition="center" mode="Background"/>
+				</headerContent>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
