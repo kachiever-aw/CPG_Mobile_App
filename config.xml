@@ -173,4 +173,5 @@
     <plugin name="cordova-plugin-geolocation"/>
     <plugin name="cordova-plugin-whitelist"/>
 
+	<plugin name="kapsel-plugin-push"/>
 </widget>
